@@ -21,422 +21,419 @@ function setDetailContent(pageUrl) {
     Apperyio.setDetailContent(pageUrl);
 }
 Apperyio.AppPages = [{
-    "name": "song18",
-    "location": "song18.html"
+    "name": "song_20",
+    "location": "song_20.html"
 }, {
-    "name": "song19",
-    "location": "song19.html"
+    "name": "song_16",
+    "location": "song_16.html"
 }, {
-    "name": "song3",
-    "location": "song3.html"
+    "name": "song_3",
+    "location": "song_3.html"
 }, {
-    "name": "song20",
-    "location": "song20.html"
+    "name": "song_13",
+    "location": "song_13.html"
 }, {
-    "name": "song4",
-    "location": "song4.html"
+    "name": "song_4",
+    "location": "song_4.html"
 }, {
-    "name": "song5",
-    "location": "song5.html"
+    "name": "song_5",
+    "location": "song_5.html"
 }, {
-    "name": "song6",
-    "location": "song6.html"
+    "name": "song_7",
+    "location": "song_7.html"
 }, {
-    "name": "song36",
-    "location": "song36.html"
+    "name": "song_39",
+    "location": "song_39.html"
 }, {
-    "name": "song2",
-    "location": "song2.html"
+    "name": "song_2",
+    "location": "song_2.html"
 }, {
-    "name": "song16",
-    "location": "song16.html"
+    "name": "song_14",
+    "location": "song_14.html"
 }, {
-    "name": "song38",
-    "location": "song38.html"
+    "name": "song_28",
+    "location": "song_28.html"
 }, {
-    "name": "song39",
-    "location": "song39.html"
+    "name": "song_50",
+    "location": "song_50.html"
 }, {
-    "name": "song17",
-    "location": "song17.html"
+    "name": "song_17",
+    "location": "song_17.html"
 }, {
-    "name": "song40",
-    "location": "song40.html"
+    "name": "song_48",
+    "location": "song_48.html"
 }, {
     "name": "songList",
     "location": "songList.html"
 }, {
-    "name": "song15",
-    "location": "song15.html"
+    "name": "song_18",
+    "location": "song_18.html"
 }, {
-    "name": "song32",
-    "location": "song32.html"
+    "name": "song_32",
+    "location": "song_32.html"
 }, {
-    "name": "song33",
-    "location": "song33.html"
+    "name": "song_34",
+    "location": "song_34.html"
 }, {
-    "name": "song34",
-    "location": "song34.html"
+    "name": "song_35",
+    "location": "song_35.html"
 }, {
-    "name": "song35",
-    "location": "song35.html"
+    "name": "song_40",
+    "location": "song_40.html"
 }, {
-    "name": "song49",
-    "location": "song49.html"
+    "name": "song_46",
+    "location": "song_46.html"
 }, {
-    "name": "song14",
-    "location": "song14.html"
+    "name": "song_21",
+    "location": "song_21.html"
 }, {
-    "name": "song12",
-    "location": "song12.html"
+    "name": "song_11",
+    "location": "song_11.html"
 }, {
-    "name": "song27",
-    "location": "song27.html"
+    "name": "song_27",
+    "location": "song_27.html"
 }, {
-    "name": "song28",
-    "location": "song28.html"
+    "name": "song_29",
+    "location": "song_29.html"
 }, {
-    "name": "song29",
-    "location": "song29.html"
+    "name": "song_33",
+    "location": "song_33.html"
 }, {
-    "name": "song30",
-    "location": "song30.html"
+    "name": "song_31",
+    "location": "song_31.html"
 }, {
-    "name": "song13",
-    "location": "song13.html"
+    "name": "song_19",
+    "location": "song_19.html"
 }, {
-    "name": "song47",
-    "location": "song47.html"
+    "name": "song_36",
+    "location": "song_36.html"
 }, {
-    "name": "song48",
-    "location": "song48.html"
+    "name": "song_47",
+    "location": "song_47.html"
 }, {
-    "name": "song31",
-    "location": "song31.html"
+    "name": "song_30",
+    "location": "song_30.html"
 }, {
-    "name": "song45",
-    "location": "song45.html"
+    "name": "song_45",
+    "location": "song_45.html"
 }, {
-    "name": "song22",
-    "location": "song22.html"
+    "name": "song_26",
+    "location": "song_26.html"
 }, {
-    "name": "song23",
-    "location": "song23.html"
+    "name": "song_25",
+    "location": "song_25.html"
 }, {
-    "name": "song9",
-    "location": "song9.html"
+    "name": "song_9",
+    "location": "song_9.html"
 }, {
-    "name": "song10",
-    "location": "song10.html"
+    "name": "song_8",
+    "location": "song_8.html"
 }, {
-    "name": "song11",
-    "location": "song11.html"
+    "name": "song_10",
+    "location": "song_10.html"
 }, {
-    "name": "song24",
-    "location": "song24.html"
+    "name": "song_22",
+    "location": "song_22.html"
 }, {
-    "name": "song25",
-    "location": "song25.html"
+    "name": "song_24",
+    "location": "song_24.html"
 }, {
-    "name": "song46",
-    "location": "song46.html"
+    "name": "song_37",
+    "location": "song_37.html"
 }, {
-    "name": "song26",
-    "location": "song26.html"
+    "name": "song_23",
+    "location": "song_23.html"
 }, {
-    "name": "song21",
-    "location": "song21.html"
+    "name": "song_15",
+    "location": "song_15.html"
 }, {
-    "name": "song37",
-    "location": "song37.html"
+    "name": "song_42",
+    "location": "song_42.html"
 }, {
-    "name": "song1",
-    "location": "song1.html"
+    "name": "song_1",
+    "location": "song_1.html"
 }, {
-    "name": "song43",
-    "location": "song43.html"
+    "name": "song_44",
+    "location": "song_44.html"
 }, {
-    "name": "song44",
-    "location": "song44.html"
+    "name": "song_41",
+    "location": "song_41.html"
 }, {
-    "name": "song8",
-    "location": "song8.html"
+    "name": "song_12",
+    "location": "song_12.html"
 }, {
-    "name": "song7",
-    "location": "song7.html"
+    "name": "song_6",
+    "location": "song_6.html"
 }, {
-    "name": "song41",
-    "location": "song41.html"
+    "name": "song_43",
+    "location": "song_43.html"
 }, {
-    "name": "song42",
-    "location": "song42.html"
+    "name": "song_51",
+    "location": "song_51.html"
 }, {
-    "name": "song50",
-    "location": "song50.html"
+    "name": "song_38",
+    "location": "song_38.html"
 }, {
-    "name": "song51",
-    "location": "song51.html"
+    "name": "song_49",
+    "location": "song_49.html"
 }, {
-    "name": "song68",
-    "location": "song68.html"
+    "name": "song_67",
+    "location": "song_67.html"
 }, {
-    "name": "song62",
-    "location": "song62.html"
+    "name": "song_65",
+    "location": "song_65.html"
 }, {
-    "name": "song63",
-    "location": "song63.html"
+    "name": "song_73",
+    "location": "song_73.html"
 }, {
-    "name": "song64",
-    "location": "song64.html"
+    "name": "song_71",
+    "location": "song_71.html"
 }, {
-    "name": "song65",
-    "location": "song65.html"
+    "name": "song_66",
+    "location": "song_66.html"
 }, {
-    "name": "song66",
-    "location": "song66.html"
+    "name": "song_64",
+    "location": "song_64.html"
 }, {
-    "name": "song67",
-    "location": "song67.html"
+    "name": "song_69",
+    "location": "song_69.html"
 }, {
-    "name": "song79",
-    "location": "song79.html"
+    "name": "song_79",
+    "location": "song_79.html"
 }, {
-    "name": "song80",
-    "location": "song80.html"
+    "name": "song_55",
+    "location": "song_55.html"
 }, {
-    "name": "song82",
-    "location": "song82.html"
+    "name": "song_84",
+    "location": "song_84.html"
 }, {
-    "name": "song83",
-    "location": "song83.html"
+    "name": "song_90",
+    "location": "song_90.html"
 }, {
-    "name": "song84",
-    "location": "song84.html"
+    "name": "song_82",
+    "location": "song_82.html"
 }, {
-    "name": "song85",
-    "location": "song85.html"
+    "name": "song_85",
+    "location": "song_85.html"
 }, {
-    "name": "song86",
-    "location": "song86.html"
+    "name": "song_86",
+    "location": "song_86.html"
 }, {
-    "name": "song60",
-    "location": "song60.html"
+    "name": "song_61",
+    "location": "song_61.html"
 }, {
-    "name": "song87",
-    "location": "song87.html"
+    "name": "song_87",
+    "location": "song_87.html"
 }, {
-    "name": "song88",
-    "location": "song88.html"
+    "name": "song_92",
+    "location": "song_92.html"
 }, {
-    "name": "song61",
-    "location": "song61.html"
+    "name": "song_62",
+    "location": "song_62.html"
 }, {
-    "name": "song89",
-    "location": "song89.html"
+    "name": "song_83",
+    "location": "song_83.html"
 }, {
-    "name": "song90",
-    "location": "song90.html"
+    "name": "song_81",
+    "location": "song_81.html"
 }, {
-    "name": "song91",
-    "location": "song91.html"
+    "name": "song_91",
+    "location": "song_91.html"
 }, {
-    "name": "song92",
-    "location": "song92.html"
+    "name": "song_88",
+    "location": "song_88.html"
 }, {
-    "name": "song93",
-    "location": "song93.html"
+    "name": "song_89",
+    "location": "song_89.html"
 }, {
-    "name": "song94",
-    "location": "song94.html"
+    "name": "song_93",
+    "location": "song_93.html"
 }, {
-    "name": "song95",
-    "location": "song95.html"
+    "name": "song_94",
+    "location": "song_94.html"
 }, {
-    "name": "song96",
-    "location": "song96.html"
+    "name": "song_95",
+    "location": "song_95.html"
 }, {
-    "name": "song97",
-    "location": "song97.html"
+    "name": "song_98",
+    "location": "song_98.html"
 }, {
-    "name": "song98",
-    "location": "song98.html"
+    "name": "song_103",
+    "location": "song_103.html"
 }, {
-    "name": "song71",
-    "location": "song71.html"
+    "name": "song_63",
+    "location": "song_63.html"
 }, {
-    "name": "song72",
-    "location": "song72.html"
+    "name": "song_72",
+    "location": "song_72.html"
 }, {
-    "name": "song73",
-    "location": "song73.html"
+    "name": "song_75",
+    "location": "song_75.html"
 }, {
-    "name": "song74",
-    "location": "song74.html"
+    "name": "song_60",
+    "location": "song_60.html"
 }, {
-    "name": "song58",
-    "location": "song58.html"
+    "name": "song_74",
+    "location": "song_74.html"
 }, {
-    "name": "song75",
-    "location": "song75.html"
+    "name": "song_59",
+    "location": "song_59.html"
 }, {
-    "name": "song59",
-    "location": "song59.html"
+    "name": "song_76",
+    "location": "song_76.html"
 }, {
-    "name": "song76",
-    "location": "song76.html"
+    "name": "song_77",
+    "location": "song_77.html"
 }, {
-    "name": "song77",
-    "location": "song77.html"
+    "name": "song_78",
+    "location": "song_78.html"
 }, {
-    "name": "song78",
-    "location": "song78.html"
+    "name": "song_52",
+    "location": "song_52.html"
 }, {
-    "name": "song56",
-    "location": "song56.html"
+    "name": "song_54",
+    "location": "song_54.html"
 }, {
-    "name": "song57",
-    "location": "song57.html"
+    "name": "song_68",
+    "location": "song_68.html"
 }, {
-    "name": "song70",
-    "location": "song70.html"
+    "name": "song_80",
+    "location": "song_80.html"
 }, {
-    "name": "song81",
-    "location": "song81.html"
+    "name": "song_70",
+    "location": "song_70.html"
 }, {
-    "name": "song69",
-    "location": "song69.html"
+    "name": "song_53",
+    "location": "song_53.html"
 }, {
-    "name": "song52",
-    "location": "song52.html"
+    "name": "song_56",
+    "location": "song_56.html"
 }, {
-    "name": "song53",
-    "location": "song53.html"
+    "name": "song_57",
+    "location": "song_57.html"
 }, {
-    "name": "song54",
-    "location": "song54.html"
+    "name": "song_58",
+    "location": "song_58.html"
 }, {
-    "name": "song55",
-    "location": "song55.html"
+    "name": "song_137",
+    "location": "song_137.html"
 }, {
-    "name": "song136",
-    "location": "song136.html"
+    "name": "song_99",
+    "location": "song_99.html"
 }, {
-    "name": "song99",
-    "location": "song99.html"
+    "name": "song_109",
+    "location": "song_109.html"
 }, {
-    "name": "song115",
-    "location": "song115.html"
+    "name": "song_101",
+    "location": "song_101.html"
 }, {
-    "name": "song104",
-    "location": "song104.html"
+    "name": "song_107",
+    "location": "song_107.html"
 }, {
-    "name": "song105",
-    "location": "song105.html"
+    "name": "song_106",
+    "location": "song_106.html"
 }, {
-    "name": "song116",
-    "location": "song116.html"
+    "name": "song_111",
+    "location": "song_111.html"
 }, {
-    "name": "song117",
-    "location": "song117.html"
+    "name": "song_112",
+    "location": "song_112.html"
 }, {
-    "name": "song106",
-    "location": "song106.html"
+    "name": "song_105",
+    "location": "song_105.html"
 }, {
-    "name": "song107",
-    "location": "song107.html"
+    "name": "song_116",
+    "location": "song_116.html"
 }, {
-    "name": "song118",
-    "location": "song118.html"
+    "name": "song_108",
+    "location": "song_108.html"
 }, {
-    "name": "song108",
-    "location": "song108.html"
+    "name": "song_118",
+    "location": "song_118.html"
 }, {
-    "name": "song119",
-    "location": "song119.html"
+    "name": "song_119",
+    "location": "song_119.html"
 }, {
-    "name": "song120",
-    "location": "song120.html"
+    "name": "song_123",
+    "location": "song_123.html"
 }, {
-    "name": "song121",
-    "location": "song121.html"
+    "name": "song_122",
+    "location": "song_122.html"
 }, {
-    "name": "song123",
-    "location": "song123.html"
+    "name": "song_128",
+    "location": "song_128.html"
 }, {
-    "name": "song124",
-    "location": "song124.html"
+    "name": "song_136",
+    "location": "song_136.html"
 }, {
-    "name": "song137",
-    "location": "song137.html"
+    "name": "song_125",
+    "location": "song_125.html"
 }, {
-    "name": "song125",
-    "location": "song125.html"
+    "name": "song_134",
+    "location": "song_134.html"
 }, {
-    "name": "song138",
-    "location": "song138.html"
+    "name": "song_130",
+    "location": "song_130.html"
 }, {
-    "name": "song126",
-    "location": "song126.html"
+    "name": "song_126",
+    "location": "song_126.html"
 }, {
-    "name": "song127",
-    "location": "song127.html"
+    "name": "song_120",
+    "location": "song_120.html"
 }, {
-    "name": "song128",
-    "location": "song128.html"
+    "name": "song_124",
+    "location": "song_124.html"
 }, {
-    "name": "song129",
-    "location": "song129.html"
+    "name": "song_97",
+    "location": "song_97.html"
 }, {
-    "name": "song100",
-    "location": "song100.html"
+    "name": "song_110",
+    "location": "song_110.html"
 }, {
-    "name": "song111",
-    "location": "song111.html"
+    "name": "song_131",
+    "location": "song_131.html"
 }, {
-    "name": "song122",
-    "location": "song122.html"
+    "name": "song_121",
+    "location": "song_121.html"
 }, {
-    "name": "song130",
-    "location": "song130.html"
+    "name": "song_133",
+    "location": "song_133.html"
 }, {
-    "name": "song131",
-    "location": "song131.html"
+    "name": "song_127",
+    "location": "song_127.html"
 }, {
-    "name": "song132",
-    "location": "song132.html"
+    "name": "song_129",
+    "location": "song_129.html"
 }, {
-    "name": "song133",
-    "location": "song133.html"
+    "name": "song_113",
+    "location": "song_113.html"
 }, {
-    "name": "song109",
-    "location": "song109.html"
+    "name": "song_132",
+    "location": "song_132.html"
 }, {
-    "name": "song134",
-    "location": "song134.html"
+    "name": "song_117",
+    "location": "song_117.html"
 }, {
-    "name": "song110",
-    "location": "song110.html"
+    "name": "song_135",
+    "location": "song_135.html"
 }, {
-    "name": "song135",
-    "location": "song135.html"
+    "name": "song_102",
+    "location": "song_102.html"
 }, {
-    "name": "song101",
-    "location": "song101.html"
+    "name": "song_115",
+    "location": "song_115.html"
 }, {
-    "name": "song112",
-    "location": "song112.html"
+    "name": "song_100",
+    "location": "song_100.html"
 }, {
-    "name": "song102",
-    "location": "song102.html"
+    "name": "song_114",
+    "location": "song_114.html"
 }, {
-    "name": "song113",
-    "location": "song113.html"
+    "name": "song_96",
+    "location": "song_96.html"
 }, {
-    "name": "song103",
-    "location": "song103.html"
-}, {
-    "name": "song114",
-    "location": "song114.html"
+    "name": "song_104",
+    "location": "song_104.html"
 }];
 
 function songList_js() {
@@ -716,9 +713,7 @@ function songList_js() {
         'mobilelistitem_136': 'songList_mobilelistitem_136',
         'mobilelistitembutton_285': 'songList_mobilelistitembutton_285',
         'mobilelistitem_137': 'songList_mobilelistitem_137',
-        'mobilelistitembutton_287': 'songList_mobilelistitembutton_287',
-        'mobilelistitem_138': 'songList_mobilelistitem_138',
-        'mobilelistitembutton_289': 'songList_mobilelistitembutton_289'
+        'mobilelistitembutton_287': 'songList_mobilelistitembutton_287'
     };
     if ("n2id" in window && window.n2id !== undefined) {
         $.extend(n2id, n2id_buf);
@@ -908,7 +903,6 @@ function songList_js() {
         /* mobilelistitem_135 */
         /* mobilelistitem_136 */
         /* mobilelistitem_137 */
-        /* mobilelistitem_138 */
     };
     // screen elements handler
     function songList_elementsEvents() {
@@ -918,7 +912,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_1"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song1', {
+                    Apperyio.navigateTo('song_1', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -928,7 +922,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_2"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song2', {
+                    Apperyio.navigateTo('song_2', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -938,7 +932,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_3"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song3', {
+                    Apperyio.navigateTo('song_3', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -948,7 +942,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_4"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song4', {
+                    Apperyio.navigateTo('song_4', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -958,7 +952,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_5"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song5', {
+                    Apperyio.navigateTo('song_5', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -968,7 +962,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_6"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song6', {
+                    Apperyio.navigateTo('song_7', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -978,7 +972,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_7"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song7', {
+                    Apperyio.navigateTo('song_6', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -988,7 +982,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_8"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song8', {
+                    Apperyio.navigateTo('song_8', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -998,7 +992,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_9"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song9', {
+                    Apperyio.navigateTo('song_9', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1008,7 +1002,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_10"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song10', {
+                    Apperyio.navigateTo('song_10', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1018,7 +1012,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_11"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song11', {
+                    Apperyio.navigateTo('song_11', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1028,7 +1022,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_12"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song12', {
+                    Apperyio.navigateTo('song_12', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1038,7 +1032,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_13"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song13', {
+                    Apperyio.navigateTo('song_13', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1048,7 +1042,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_14"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song14', {
+                    Apperyio.navigateTo('song_14', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1058,7 +1052,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_15"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song15', {
+                    Apperyio.navigateTo('song_15', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1068,7 +1062,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_16"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song16', {
+                    Apperyio.navigateTo('song_16', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1078,7 +1072,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_17"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song17', {
+                    Apperyio.navigateTo('song_17', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1088,7 +1082,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_18"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song18', {
+                    Apperyio.navigateTo('song_18', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1098,7 +1092,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_19"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song19', {
+                    Apperyio.navigateTo('song_19', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1108,7 +1102,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_20"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song20', {
+                    Apperyio.navigateTo('song_20', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1118,7 +1112,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_21"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song21', {
+                    Apperyio.navigateTo('song_21', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1128,7 +1122,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_22"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song22', {
+                    Apperyio.navigateTo('song_22', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1138,7 +1132,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_23"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song23', {
+                    Apperyio.navigateTo('song_23', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1148,7 +1142,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_24"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song24', {
+                    Apperyio.navigateTo('song_24', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1158,7 +1152,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_25"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song25', {
+                    Apperyio.navigateTo('song_27', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1168,7 +1162,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_26"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song26', {
+                    Apperyio.navigateTo('song_26', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1178,7 +1172,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_27"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song27', {
+                    Apperyio.navigateTo('song_27', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1188,7 +1182,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_28"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song28', {
+                    Apperyio.navigateTo('song_28', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1198,7 +1192,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_29"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song29', {
+                    Apperyio.navigateTo('song_29', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1208,7 +1202,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_30"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song30', {
+                    Apperyio.navigateTo('song_30', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1218,7 +1212,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_31"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song31', {
+                    Apperyio.navigateTo('song_31', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1228,7 +1222,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_32"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song32', {
+                    Apperyio.navigateTo('song_32', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1238,7 +1232,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_33"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song33', {
+                    Apperyio.navigateTo('song_33', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1248,7 +1242,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_34"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song34', {
+                    Apperyio.navigateTo('song_34', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1258,7 +1252,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_35"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song35', {
+                    Apperyio.navigateTo('song_35', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1268,7 +1262,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_36"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song36', {
+                    Apperyio.navigateTo('song_36', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1278,7 +1272,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_37"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song37', {
+                    Apperyio.navigateTo('song_37', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1288,7 +1282,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_38"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song38', {
+                    Apperyio.navigateTo('song_38', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1298,7 +1292,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_39"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song39', {
+                    Apperyio.navigateTo('song_39', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1308,7 +1302,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_40"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song40', {
+                    Apperyio.navigateTo('song_40', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1318,7 +1312,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_41"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song41', {
+                    Apperyio.navigateTo('song_41', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1328,7 +1322,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_42"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song42', {
+                    Apperyio.navigateTo('song_42', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1338,7 +1332,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_43"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song43', {
+                    Apperyio.navigateTo('song_43', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1348,7 +1342,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_44"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song44', {
+                    Apperyio.navigateTo('song_44', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1358,7 +1352,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_45"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song45', {
+                    Apperyio.navigateTo('song_45', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1368,7 +1362,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_46"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song46', {
+                    Apperyio.navigateTo('song_46', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1378,7 +1372,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_47"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song47', {
+                    Apperyio.navigateTo('song_47', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1388,7 +1382,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_48"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song48', {
+                    Apperyio.navigateTo('song_48', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1398,17 +1392,17 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_49"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song49', {
+                    Apperyio.navigateTo('song_49', {
                         transition: 'slide',
                         reverse: false
                     });
                 }
             },
         }, '#songList_mobilecontainer [name="mobilelistitem_49"]');
-		$(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_50"]').on({
+        $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_50"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song50', {
+                    Apperyio.navigateTo('song_50', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1418,7 +1412,27 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_51"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song51', {
+                    Apperyio.navigateTo('song_51', {
+                        transition: 'slide',
+                        reverse: false
+                    });
+                }
+            },
+        }, '#songList_mobilecontainer [name="mobilelistitem_51"]');
+		$(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_50"]').on({
+            click: function(event) {
+                if (!$(this).attr('disabled')) {
+                    Apperyio.navigateTo('song_38', {
+                        transition: 'slide',
+                        reverse: false
+                    });
+                }
+            },
+        }, '#songList_mobilecontainer [name="mobilelistitem_50"]');
+        $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_51"]').on({
+            click: function(event) {
+                if (!$(this).attr('disabled')) {
+                    Apperyio.navigateTo('song_49', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1428,7 +1442,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_52"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song52', {
+                    Apperyio.navigateTo('song_52', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1438,7 +1452,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_53"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song53', {
+                    Apperyio.navigateTo('song_53', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1448,7 +1462,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_54"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song54', {
+                    Apperyio.navigateTo('song_54', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1458,7 +1472,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_55"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song55', {
+                    Apperyio.navigateTo('song_54', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1468,7 +1482,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_56"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song56', {
+                    Apperyio.navigateTo('song_56', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1478,7 +1492,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_57"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song57', {
+                    Apperyio.navigateTo('song_57', {
                         reverse: false
                     });
                 }
@@ -1487,7 +1501,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_58"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song58', {
+                    Apperyio.navigateTo('song_58', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1497,7 +1511,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_59"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song59', {
+                    Apperyio.navigateTo('song_59', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1507,7 +1521,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_60"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song60', {
+                    Apperyio.navigateTo('song_60', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1517,7 +1531,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_61"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song61', {
+                    Apperyio.navigateTo('song_61', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1527,7 +1541,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_62"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song62', {
+                    Apperyio.navigateTo('song_62', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1537,7 +1551,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_63"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song63', {
+                    Apperyio.navigateTo('song_73', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1547,7 +1561,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_64"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song64', {
+                    Apperyio.navigateTo('song_64', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1557,7 +1571,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_65"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song65', {
+                    Apperyio.navigateTo('song_65', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1567,7 +1581,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_66"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song66', {
+                    Apperyio.navigateTo('song_66', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1577,7 +1591,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_67"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song67', {
+                    Apperyio.navigateTo('song_67', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1587,7 +1601,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_68"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song68', {
+                    Apperyio.navigateTo('song_68', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1597,7 +1611,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_69"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song69', {
+                    Apperyio.navigateTo('song_69', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1607,7 +1621,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_70"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song70', {
+                    Apperyio.navigateTo('song_70', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1617,7 +1631,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_71"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song71', {
+                    Apperyio.navigateTo('song_71', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1627,7 +1641,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_72"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song72', {
+                    Apperyio.navigateTo('song_72', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1637,7 +1651,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_73"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song73', {
+                    Apperyio.navigateTo('song_73', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1647,7 +1661,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_74"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song74', {
+                    Apperyio.navigateTo('song_74', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1657,7 +1671,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_75"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song75', {
+                    Apperyio.navigateTo('song_75', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1667,7 +1681,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_76"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song76', {
+                    Apperyio.navigateTo('song_76', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1677,7 +1691,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_77"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song77', {
+                    Apperyio.navigateTo('song_77', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1687,7 +1701,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_78"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song78', {
+                    Apperyio.navigateTo('song_78', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1697,7 +1711,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_79"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song79', {
+                    Apperyio.navigateTo('song_79', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1707,7 +1721,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_80"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song80', {
+                    Apperyio.navigateTo('song_80', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1717,7 +1731,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_81"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song81', {
+                    Apperyio.navigateTo('song_81', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1727,7 +1741,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_82"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song82', {
+                    Apperyio.navigateTo('song_82', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1737,7 +1751,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_83"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song83', {
+                    Apperyio.navigateTo('song_83', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1747,7 +1761,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_84"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song84', {
+                    Apperyio.navigateTo('song_84', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1757,7 +1771,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_85"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song85', {
+                    Apperyio.navigateTo('song_85', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1767,7 +1781,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_86"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song86', {
+                    Apperyio.navigateTo('song_86', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1777,7 +1791,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_87"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song87', {
+                    Apperyio.navigateTo('song_87', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1787,7 +1801,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_88"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song88', {
+                    Apperyio.navigateTo('song_88', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1797,7 +1811,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_89"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song89', {
+                    Apperyio.navigateTo('song_89', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1807,7 +1821,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_90"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song90', {
+                    Apperyio.navigateTo('song_90', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1817,7 +1831,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_91"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song91', {
+                    Apperyio.navigateTo('song_91', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1827,7 +1841,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_92"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song92', {
+                    Apperyio.navigateTo('song_92', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1837,7 +1851,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_93"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song93', {
+                    Apperyio.navigateTo('song_93', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1847,7 +1861,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_94"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song94', {
+                    Apperyio.navigateTo('song_94', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1857,7 +1871,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_95"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song95', {
+                    Apperyio.navigateTo('song_95', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1867,7 +1881,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_96"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song96', {
+                    Apperyio.navigateTo('song_96', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1877,7 +1891,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_97"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song97', {
+                    Apperyio.navigateTo('song_97', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1887,7 +1901,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_98"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song98', {
+                    Apperyio.navigateTo('song_98', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1897,7 +1911,7 @@ function songList_js() {
 		$(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_99"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song99', {
+                    Apperyio.navigateTo('song_99', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1907,7 +1921,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_100"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song100', {
+                    Apperyio.navigateTo('song_100', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1917,7 +1931,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_101"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song101', {
+                    Apperyio.navigateTo('song_101', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1927,7 +1941,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_102"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song102', {
+                    Apperyio.navigateTo('song_102', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1937,7 +1951,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_103"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song103', {
+                    Apperyio.navigateTo('song_103', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1947,7 +1961,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_104"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song104', {
+                    Apperyio.navigateTo('song_104', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1957,7 +1971,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_105"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song105', {
+                    Apperyio.navigateTo('song_105', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1967,7 +1981,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_106"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song106', {
+                    Apperyio.navigateTo('song_106', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1977,7 +1991,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_107"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song107', {
+                    Apperyio.navigateTo('song_107', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1987,7 +2001,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_108"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song108', {
+                    Apperyio.navigateTo('song_108', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -1997,7 +2011,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_109"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song109', {
+                    Apperyio.navigateTo('song_109', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2007,7 +2021,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_110"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song110', {
+                    Apperyio.navigateTo('song_110', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2017,7 +2031,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_111"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song111', {
+                    Apperyio.navigateTo('song_111', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2027,7 +2041,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_112"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song112', {
+                    Apperyio.navigateTo('song_112', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2037,7 +2051,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_113"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song113', {
+                    Apperyio.navigateTo('song_113', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2047,7 +2061,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_114"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song114', {
+                    Apperyio.navigateTo('song_114', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2057,7 +2071,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_115"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song115', {
+                    Apperyio.navigateTo('song_115', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2067,7 +2081,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_116"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song116', {
+                    Apperyio.navigateTo('song_116', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2077,7 +2091,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_117"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song117', {
+                    Apperyio.navigateTo('song_117', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2087,7 +2101,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_118"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song118', {
+                    Apperyio.navigateTo('song_118', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2097,7 +2111,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_119"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song119', {
+                    Apperyio.navigateTo('song_119', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2107,7 +2121,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_120"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song120', {
+                    Apperyio.navigateTo('song_120', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2117,7 +2131,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_121"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song121', {
+                    Apperyio.navigateTo('song_121', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2127,7 +2141,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_122"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song122', {
+                    Apperyio.navigateTo('song_122', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2137,7 +2151,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_123"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song123', {
+                    Apperyio.navigateTo('song_123', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2147,7 +2161,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_124"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song124', {
+                    Apperyio.navigateTo('song_124', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2157,7 +2171,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_125"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song125', {
+                    Apperyio.navigateTo('song_125', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2167,7 +2181,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_126"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song126', {
+                    Apperyio.navigateTo('song_126', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2177,7 +2191,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_127"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song127', {
+                    Apperyio.navigateTo('song_127', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2187,7 +2201,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_128"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song128', {
+                    Apperyio.navigateTo('song_128', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2197,7 +2211,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_129"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song129', {
+                    Apperyio.navigateTo('song_129', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2207,7 +2221,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_130"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song130', {
+                    Apperyio.navigateTo('song_130', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2217,7 +2231,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_131"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song131', {
+                    Apperyio.navigateTo('song_131', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2227,7 +2241,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_132"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song132', {
+                    Apperyio.navigateTo('song_132', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2237,7 +2251,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_133"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song133', {
+                    Apperyio.navigateTo('song_133', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2247,7 +2261,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_134"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song134', {
+                    Apperyio.navigateTo('song_134', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2257,7 +2271,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_135"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song135', {
+                    Apperyio.navigateTo('song_135', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2267,7 +2281,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_136"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song136', {
+                    Apperyio.navigateTo('song_136', {
                         transition: 'slide',
                         reverse: false
                     });
@@ -2277,23 +2291,13 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_137"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song137', {
+                    Apperyio.navigateTo('song_137', {
                         transition: 'slide',
                         reverse: false
                     });
                 }
             },
         }, '#songList_mobilecontainer [name="mobilelistitem_137"]');
-        $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_138"]').on({
-            click: function(event) {
-                if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song138', {
-                        transition: 'slide',
-                        reverse: false
-                    });
-                }
-            },
-        }, '#songList_mobilecontainer [name="mobilelistitem_138"]');
     };
     $(document).off("pagebeforeshow", "#songList").on("pagebeforeshow", "#songList", function(event, ui) {
         Apperyio.CurrentScreen = "songList";
