@@ -170,6 +170,270 @@ Apperyio.AppPages = [{
 }, {
     "name": "song_51",
     "location": "song_51.html"
+}, {
+    "name": "song_38",
+    "location": "song_38.html"
+}, {
+    "name": "song_49",
+    "location": "song_49.html"
+}, {
+    "name": "song_67",
+    "location": "song_67.html"
+}, {
+    "name": "song_65",
+    "location": "song_65.html"
+}, {
+    "name": "song_73",
+    "location": "song_73.html"
+}, {
+    "name": "song_71",
+    "location": "song_71.html"
+}, {
+    "name": "song_66",
+    "location": "song_66.html"
+}, {
+    "name": "song_64",
+    "location": "song_64.html"
+}, {
+    "name": "song_69",
+    "location": "song_69.html"
+}, {
+    "name": "song_79",
+    "location": "song_79.html"
+}, {
+    "name": "song_55",
+    "location": "song_55.html"
+}, {
+    "name": "song_84",
+    "location": "song_84.html"
+}, {
+    "name": "song_90",
+    "location": "song_90.html"
+}, {
+    "name": "song_82",
+    "location": "song_82.html"
+}, {
+    "name": "song_85",
+    "location": "song_85.html"
+}, {
+    "name": "song_86",
+    "location": "song_86.html"
+}, {
+    "name": "song_61",
+    "location": "song_61.html"
+}, {
+    "name": "song_87",
+    "location": "song_87.html"
+}, {
+    "name": "song_92",
+    "location": "song_92.html"
+}, {
+    "name": "song_62",
+    "location": "song_62.html"
+}, {
+    "name": "song_83",
+    "location": "song_83.html"
+}, {
+    "name": "song_81",
+    "location": "song_81.html"
+}, {
+    "name": "song_91",
+    "location": "song_91.html"
+}, {
+    "name": "song_88",
+    "location": "song_88.html"
+}, {
+    "name": "song_89",
+    "location": "song_89.html"
+}, {
+    "name": "song_93",
+    "location": "song_93.html"
+}, {
+    "name": "song_94",
+    "location": "song_94.html"
+}, {
+    "name": "song_95",
+    "location": "song_95.html"
+}, {
+    "name": "song_98",
+    "location": "song_98.html"
+}, {
+    "name": "song_103",
+    "location": "song_103.html"
+}, {
+    "name": "song_63",
+    "location": "song_63.html"
+}, {
+    "name": "song_72",
+    "location": "song_72.html"
+}, {
+    "name": "song_75",
+    "location": "song_75.html"
+}, {
+    "name": "song_60",
+    "location": "song_60.html"
+}, {
+    "name": "song_74",
+    "location": "song_74.html"
+}, {
+    "name": "song_59",
+    "location": "song_59.html"
+}, {
+    "name": "song_76",
+    "location": "song_76.html"
+}, {
+    "name": "song_77",
+    "location": "song_77.html"
+}, {
+    "name": "song_78",
+    "location": "song_78.html"
+}, {
+    "name": "song_52",
+    "location": "song_52.html"
+}, {
+    "name": "song_54",
+    "location": "song_54.html"
+}, {
+    "name": "song_68",
+    "location": "song_68.html"
+}, {
+    "name": "song_80",
+    "location": "song_80.html"
+}, {
+    "name": "song_70",
+    "location": "song_70.html"
+}, {
+    "name": "song_53",
+    "location": "song_53.html"
+}, {
+    "name": "song_56",
+    "location": "song_56.html"
+}, {
+    "name": "song_57",
+    "location": "song_57.html"
+}, {
+    "name": "song_58",
+    "location": "song_58.html"
+}, {
+    "name": "song_137",
+    "location": "song_137.html"
+}, {
+    "name": "song_99",
+    "location": "song_99.html"
+}, {
+    "name": "song_109",
+    "location": "song_109.html"
+}, {
+    "name": "song_101",
+    "location": "song_101.html"
+}, {
+    "name": "song_107",
+    "location": "song_107.html"
+}, {
+    "name": "song_106",
+    "location": "song_106.html"
+}, {
+    "name": "song_111",
+    "location": "song_111.html"
+}, {
+    "name": "song_112",
+    "location": "song_112.html"
+}, {
+    "name": "song_105",
+    "location": "song_105.html"
+}, {
+    "name": "song_116",
+    "location": "song_116.html"
+}, {
+    "name": "song_108",
+    "location": "song_108.html"
+}, {
+    "name": "song_118",
+    "location": "song_118.html"
+}, {
+    "name": "song_119",
+    "location": "song_119.html"
+}, {
+    "name": "song_123",
+    "location": "song_123.html"
+}, {
+    "name": "song_122",
+    "location": "song_122.html"
+}, {
+    "name": "song_128",
+    "location": "song_128.html"
+}, {
+    "name": "song_136",
+    "location": "song_136.html"
+}, {
+    "name": "song_125",
+    "location": "song_125.html"
+}, {
+    "name": "song_134",
+    "location": "song_134.html"
+}, {
+    "name": "song_130",
+    "location": "song_130.html"
+}, {
+    "name": "song_126",
+    "location": "song_126.html"
+}, {
+    "name": "song_120",
+    "location": "song_120.html"
+}, {
+    "name": "song_124",
+    "location": "song_124.html"
+}, {
+    "name": "song_97",
+    "location": "song_97.html"
+}, {
+    "name": "song_110",
+    "location": "song_110.html"
+}, {
+    "name": "song_131",
+    "location": "song_131.html"
+}, {
+    "name": "song_121",
+    "location": "song_121.html"
+}, {
+    "name": "song_133",
+    "location": "song_133.html"
+}, {
+    "name": "song_127",
+    "location": "song_127.html"
+}, {
+    "name": "song_129",
+    "location": "song_129.html"
+}, {
+    "name": "song_113",
+    "location": "song_113.html"
+}, {
+    "name": "song_132",
+    "location": "song_132.html"
+}, {
+    "name": "song_117",
+    "location": "song_117.html"
+}, {
+    "name": "song_135",
+    "location": "song_135.html"
+}, {
+    "name": "song_102",
+    "location": "song_102.html"
+}, {
+    "name": "song_115",
+    "location": "song_115.html"
+}, {
+    "name": "song_100",
+    "location": "song_100.html"
+}, {
+    "name": "song_114",
+    "location": "song_114.html"
+}, {
+    "name": "song_96",
+    "location": "song_96.html"
+}, {
+    "name": "song_104",
+    "location": "song_104.html"
 }];
 
 function song_18_js() {
