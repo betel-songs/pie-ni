@@ -1419,26 +1419,6 @@ function songList_js() {
                 }
             },
         }, '#songList_mobilecontainer [name="mobilelistitem_51"]');
-		$(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_50"]').on({
-            click: function(event) {
-                if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song_38', {
-                        transition: 'slide',
-                        reverse: false
-                    });
-                }
-            },
-        }, '#songList_mobilecontainer [name="mobilelistitem_50"]');
-        $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_51"]').on({
-            click: function(event) {
-                if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song_49', {
-                        transition: 'slide',
-                        reverse: false
-                    });
-                }
-            },
-        }, '#songList_mobilecontainer [name="mobilelistitem_51"]');
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_52"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
