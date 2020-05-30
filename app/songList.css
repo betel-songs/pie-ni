@@ -3,6 +3,9 @@
 .ui-icon-loading {
 	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
 }
+.ui-header .ui-title, .ui-footer .ui-title {
+    margin: 0 3%;
+}
 /* mobilecontainer */
 .ui-content.songList_mobilecontainer {
 	padding: 15px 15px 15px 15px;
