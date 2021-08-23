@@ -1152,7 +1152,7 @@ function songList_js() {
         $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_25"]').on({
             click: function(event) {
                 if (!$(this).attr('disabled')) {
-                    Apperyio.navigateTo('song_27', {
+                    Apperyio.navigateTo('song_25', {
                         transition: 'slide',
                         reverse: false
                     });
