@@ -318,6 +318,9 @@ Apperyio.AppPages = [{
     "name": "song_137",
     "location": "song_137.html"
 }, {
+    "name": "song_138",
+    "location": "song_138.html"
+}, {
     "name": "song_99",
     "location": "song_99.html"
 }, {
@@ -564,6 +567,7 @@ function songList_js() {
         'mobilelistitembutton_135': 'songList_mobilelistitembutton_135',
         'mobilelistitem_62': 'songList_mobilelistitem_62',
         'mobilelistitembutton_137': 'songList_mobilelistitembutton_137',
+        'mobilelistitembutton_138': 'songList_mobilelistitembutton_138',
         'mobilelistitem_63': 'songList_mobilelistitem_63',
         'mobilelistitembutton_139': 'songList_mobilelistitembutton_139',
         'mobilelistitem_64': 'songList_mobilelistitem_64',
@@ -713,6 +717,7 @@ function songList_js() {
         'mobilelistitem_136': 'songList_mobilelistitem_136',
         'mobilelistitembutton_285': 'songList_mobilelistitembutton_285',
         'mobilelistitem_137': 'songList_mobilelistitem_137',
+        'mobilelistitem_138': 'songList_mobilelistitem_138',
         'mobilelistitembutton_287': 'songList_mobilelistitembutton_287'
     };
     if ("n2id" in window && window.n2id !== undefined) {
@@ -903,6 +908,7 @@ function songList_js() {
         /* mobilelistitem_135 */
         /* mobilelistitem_136 */
         /* mobilelistitem_137 */
+        /* mobilelistitem_138 */
     };
     // screen elements handler
     function songList_elementsEvents() {
@@ -2278,6 +2284,16 @@ function songList_js() {
                 }
             },
         }, '#songList_mobilecontainer [name="mobilelistitem_137"]');
+        $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_138"]').on({
+            click: function(event) {
+                if (!$(this).attr('disabled')) {
+                    Apperyio.navigateTo('song_138', {
+                        transition: 'slide',
+                        reverse: false
+                    });
+                }
+            },
+        }, '#songList_mobilecontainer [name="mobilelistitem_138"]');
     };
     $(document).off("pagebeforeshow", "#songList").on("pagebeforeshow", "#songList", function(event, ui) {
         Apperyio.CurrentScreen = "songList";
