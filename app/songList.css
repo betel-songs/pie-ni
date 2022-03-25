@@ -1,711 +1,573 @@
-
 /* Define default spinner */
 .ui-icon-loading {
-	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+  background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat
+    scroll 0 0 / 46px 46px transparent !important;
 }
-.ui-header .ui-title, .ui-footer .ui-title {
-    margin: 0 3%;
+.ui-header .ui-title,
+.ui-footer .ui-title {
+  margin: 0 3%;
 }
 /* mobilecontainer */
 .ui-content.songList_mobilecontainer {
-	padding: 15px 15px 15px 15px;
+  padding: 15px 15px 15px 15px;
 }
 /* songs */
 .ui-page .songList_songs {
-	margin: 15px 0px 0px 0px;
+  margin: 15px 0px 0px 0px;
 }
 /* mobilelistitem_1 */
 /* mobilelistitembutton_4 */
 .songList_mobilelistitembutton_4 {
-
 }
 /* mobilelistitem_2 */
 /* mobilelistitembutton_6 */
 .songList_mobilelistitembutton_6 {
-
 }
 /* mobilelistitem_3 */
 /* mobilelistitembutton_8 */
 .songList_mobilelistitembutton_8 {
-
 }
 /* mobilelistitem_4 */
 /* mobilelistitembutton_16 */
 .songList_mobilelistitembutton_16 {
-
 }
 /* mobilelistitem_5 */
 /* mobilelistitembutton_18 */
 .songList_mobilelistitembutton_18 {
-
 }
 /* mobilelistitem_6 */
 /* mobilelistitembutton_20 */
 .songList_mobilelistitembutton_20 {
-
 }
 /* mobilelistitem_7 */
 /* mobilelistitembutton_22 */
 .songList_mobilelistitembutton_22 {
-
 }
 /* mobilelistitem_8 */
 /* mobilelistitembutton_24 */
 .songList_mobilelistitembutton_24 {
-
 }
 /* mobilelistitem_9 */
 /* mobilelistitembutton_26 */
 .songList_mobilelistitembutton_26 {
-
 }
 /* mobilelistitem_10 */
 /* mobilelistitembutton_28 */
 .songList_mobilelistitembutton_28 {
-
 }
 /* mobilelistitem_11 */
 /* mobilelistitembutton_30 */
 .songList_mobilelistitembutton_30 {
-
 }
 /* mobilelistitem_12 */
 /* mobilelistitembutton_32 */
 .songList_mobilelistitembutton_32 {
-
 }
 /* mobilelistitem_13 */
 /* mobilelistitembutton_34 */
 .songList_mobilelistitembutton_34 {
-
 }
 /* mobilelistitem_14 */
 /* mobilelistitembutton_36 */
 .songList_mobilelistitembutton_36 {
-
 }
 /* mobilelistitem_15 */
 /* mobilelistitembutton_38 */
 .songList_mobilelistitembutton_38 {
-
 }
 /* mobilelistitem_16 */
 /* mobilelistitembutton_40 */
 .songList_mobilelistitembutton_40 {
-
 }
 /* mobilelistitem_17 */
 /* mobilelistitembutton_42 */
 .songList_mobilelistitembutton_42 {
-
 }
 /* mobilelistitem_18 */
 /* mobilelistitembutton_44 */
 .songList_mobilelistitembutton_44 {
-
 }
 /* mobilelistitem_19 */
 /* mobilelistitembutton_46 */
 .songList_mobilelistitembutton_46 {
-
 }
 /* mobilelistitem_20 */
 /* mobilelistitembutton_48 */
 .songList_mobilelistitembutton_48 {
-
 }
 /* mobilelistitem_21 */
 /* mobilelistitembutton_55 */
 .songList_mobilelistitembutton_55 {
-
 }
 /* mobilelistitem_22 */
 /* mobilelistitembutton_57 */
 .songList_mobilelistitembutton_57 {
-
 }
 /* mobilelistitem_23 */
 /* mobilelistitembutton_59 */
 .songList_mobilelistitembutton_59 {
-
 }
 /* mobilelistitem_24 */
 /* mobilelistitembutton_61 */
 .songList_mobilelistitembutton_61 {
-
 }
 /* mobilelistitem_25 */
 /* mobilelistitembutton_63 */
 .songList_mobilelistitembutton_63 {
-
 }
 /* mobilelistitem_26 */
 /* mobilelistitembutton_65 */
 .songList_mobilelistitembutton_65 {
-
 }
 /* mobilelistitem_27 */
 /* mobilelistitembutton_67 */
 .songList_mobilelistitembutton_67 {
-
 }
 /* mobilelistitem_28 */
 /* mobilelistitembutton_69 */
 .songList_mobilelistitembutton_69 {
-
 }
 /* mobilelistitem_29 */
 /* mobilelistitembutton_71 */
 .songList_mobilelistitembutton_71 {
-
 }
 /* mobilelistitem_30 */
 /* mobilelistitembutton_73 */
 .songList_mobilelistitembutton_73 {
-
 }
 /* mobilelistitem_31 */
 /* mobilelistitembutton_75 */
 .songList_mobilelistitembutton_75 {
-
 }
 /* mobilelistitem_32 */
 /* mobilelistitembutton_77 */
 .songList_mobilelistitembutton_77 {
-
 }
 /* mobilelistitem_33 */
 /* mobilelistitembutton_79 */
 .songList_mobilelistitembutton_79 {
-
 }
 /* mobilelistitem_34 */
 /* mobilelistitembutton_81 */
 .songList_mobilelistitembutton_81 {
-
 }
 /* mobilelistitem_35 */
 /* mobilelistitembutton_83 */
 .songList_mobilelistitembutton_83 {
-
 }
 /* mobilelistitem_36 */
 /* mobilelistitembutton_85 */
 .songList_mobilelistitembutton_85 {
-
 }
 /* mobilelistitem_37 */
 /* mobilelistitembutton_87 */
 .songList_mobilelistitembutton_87 {
-
 }
 /* mobilelistitem_38 */
 /* mobilelistitembutton_89 */
 .songList_mobilelistitembutton_89 {
-
 }
 /* mobilelistitem_39 */
 /* mobilelistitembutton_91 */
 .songList_mobilelistitembutton_91 {
-
 }
 /* mobilelistitem_40 */
 /* mobilelistitembutton_93 */
 .songList_mobilelistitembutton_93 {
-
 }
 /* mobilelistitem_41 */
 /* mobilelistitembutton_95 */
 .songList_mobilelistitembutton_95 {
-
 }
 /* mobilelistitem_42 */
 /* mobilelistitembutton_97 */
 .songList_mobilelistitembutton_97 {
-
 }
 /* mobilelistitem_43 */
 /* mobilelistitembutton_99 */
 .songList_mobilelistitembutton_99 {
-
 }
 /* mobilelistitem_44 */
 /* mobilelistitembutton_101 */
 .songList_mobilelistitembutton_101 {
-
 }
 /* mobilelistitem_45 */
 /* mobilelistitembutton_103 */
 .songList_mobilelistitembutton_103 {
-
 }
 /* mobilelistitem_46 */
 /* mobilelistitembutton_105 */
 .songList_mobilelistitembutton_105 {
-
 }
 /* mobilelistitem_47 */
 /* mobilelistitembutton_107 */
 .songList_mobilelistitembutton_107 {
-
 }
 /* mobilelistitem_48 */
 /* mobilelistitembutton_109 */
 .songList_mobilelistitembutton_109 {
-
 }
 /* mobilelistitem_49 */
 /* mobilelistitembutton_111 */
 .songList_mobilelistitembutton_111 {
-
 }
 /* mobilelistitem_50 */
 /* mobilelistitembutton_113 */
 .songList_mobilelistitembutton_113 {
-
 }
 /* mobilelistitem_51 */
 /* mobilelistitembutton_115 */
 .songList_mobilelistitembutton_115 {
-
 }
 /* mobilelistitem_52 */
 /* mobilelistitembutton_117 */
 .songList_mobilelistitembutton_117 {
-
 }
 /* mobilelistitem_53 */
 /* mobilelistitembutton_119 */
 .songList_mobilelistitembutton_119 {
-
 }
 /* mobilelistitem_54 */
 /* mobilelistitembutton_121 */
 .songList_mobilelistitembutton_121 {
-
 }
 /* mobilelistitem_55 */
 /* mobilelistitembutton_123 */
 .songList_mobilelistitembutton_123 {
-
 }
 /* mobilelistitem_56 */
 /* mobilelistitembutton_125 */
 .songList_mobilelistitembutton_125 {
-
 }
 /* mobilelistitem_57 */
 /* mobilelistitembutton_127 */
 .songList_mobilelistitembutton_127 {
-
 }
 /* mobilelistitem_58 */
 /* mobilelistitembutton_129 */
 .songList_mobilelistitembutton_129 {
-
 }
 /* mobilelistitem_59 */
 /* mobilelistitembutton_131 */
 .songList_mobilelistitembutton_131 {
-
 }
 /* mobilelistitem_60 */
 /* mobilelistitembutton_133 */
 .songList_mobilelistitembutton_133 {
-
 }
 /* mobilelistitem_61 */
 /* mobilelistitembutton_135 */
 .songList_mobilelistitembutton_135 {
-
 }
 /* mobilelistitem_62 */
 /* mobilelistitembutton_137 */
 .songList_mobilelistitembutton_137 {
-
 }
 .songList_mobilelistitembutton_138 {
-
 }
 .songList_mobilelistitembutton_139 {
-
 }
 /* mobilelistitem_63 */
 /* mobilelistitembutton_139 */
-.songList_mobilelistitembutton_139 {
-
+.songList_mobilelistitembutton_140 {
 }
 /* mobilelistitem_64 */
 /* mobilelistitembutton_141 */
 .songList_mobilelistitembutton_141 {
-
 }
 /* mobilelistitem_65 */
 /* mobilelistitembutton_143 */
 .songList_mobilelistitembutton_143 {
-
 }
 /* mobilelistitem_66 */
 /* mobilelistitembutton_145 */
 .songList_mobilelistitembutton_145 {
-
 }
 /* mobilelistitem_67 */
 /* mobilelistitembutton_147 */
 .songList_mobilelistitembutton_147 {
-
 }
 /* mobilelistitem_68 */
 /* mobilelistitembutton_149 */
 .songList_mobilelistitembutton_149 {
-
 }
 /* mobilelistitem_69 */
 /* mobilelistitembutton_151 */
 .songList_mobilelistitembutton_151 {
-
 }
 /* mobilelistitem_70 */
 /* mobilelistitembutton_153 */
 .songList_mobilelistitembutton_153 {
-
 }
 /* mobilelistitem_71 */
 /* mobilelistitembutton_155 */
 .songList_mobilelistitembutton_155 {
-
 }
 /* mobilelistitem_72 */
 /* mobilelistitembutton_157 */
 .songList_mobilelistitembutton_157 {
-
 }
 /* mobilelistitem_73 */
 /* mobilelistitembutton_159 */
 .songList_mobilelistitembutton_159 {
-
 }
 /* mobilelistitem_74 */
 /* mobilelistitembutton_161 */
 .songList_mobilelistitembutton_161 {
-
 }
 /* mobilelistitem_75 */
 /* mobilelistitembutton_163 */
 .songList_mobilelistitembutton_163 {
-
 }
 /* mobilelistitem_76 */
 /* mobilelistitembutton_165 */
 .songList_mobilelistitembutton_165 {
-
 }
 /* mobilelistitem_77 */
 /* mobilelistitembutton_167 */
 .songList_mobilelistitembutton_167 {
-
 }
 /* mobilelistitem_78 */
 /* mobilelistitembutton_169 */
 .songList_mobilelistitembutton_169 {
-
 }
 /* mobilelistitem_79 */
 /* mobilelistitembutton_171 */
 .songList_mobilelistitembutton_171 {
-
 }
 /* mobilelistitem_80 */
 /* mobilelistitembutton_173 */
 .songList_mobilelistitembutton_173 {
-
 }
 /* mobilelistitem_81 */
 /* mobilelistitembutton_175 */
 .songList_mobilelistitembutton_175 {
-
 }
 /* mobilelistitem_82 */
 /* mobilelistitembutton_177 */
 .songList_mobilelistitembutton_177 {
-
 }
 /* mobilelistitem_83 */
 /* mobilelistitembutton_179 */
 .songList_mobilelistitembutton_179 {
-
 }
 /* mobilelistitem_84 */
 /* mobilelistitembutton_181 */
 .songList_mobilelistitembutton_181 {
-
 }
 /* mobilelistitem_85 */
 /* mobilelistitembutton_183 */
 .songList_mobilelistitembutton_183 {
-
 }
 /* mobilelistitem_86 */
 /* mobilelistitembutton_185 */
 .songList_mobilelistitembutton_185 {
-
 }
 /* mobilelistitem_87 */
 /* mobilelistitembutton_187 */
 .songList_mobilelistitembutton_187 {
-
 }
 /* mobilelistitem_88 */
 /* mobilelistitembutton_189 */
 .songList_mobilelistitembutton_189 {
-
 }
 /* mobilelistitem_89 */
 /* mobilelistitembutton_191 */
 .songList_mobilelistitembutton_191 {
-
 }
 /* mobilelistitem_90 */
 /* mobilelistitembutton_193 */
 .songList_mobilelistitembutton_193 {
-
 }
 /* mobilelistitem_91 */
 /* mobilelistitembutton_195 */
 .songList_mobilelistitembutton_195 {
-
 }
 /* mobilelistitem_92 */
 /* mobilelistitembutton_197 */
 .songList_mobilelistitembutton_197 {
-
 }
 /* mobilelistitem_93 */
 /* mobilelistitembutton_199 */
 .songList_mobilelistitembutton_199 {
-
 }
 /* mobilelistitem_94 */
 /* mobilelistitembutton_201 */
 .songList_mobilelistitembutton_201 {
-
 }
 /* mobilelistitem_95 */
 /* mobilelistitembutton_203 */
 .songList_mobilelistitembutton_203 {
-
 }
 /* mobilelistitem_96 */
 /* mobilelistitembutton_205 */
 .songList_mobilelistitembutton_205 {
-
 }
 /* mobilelistitem_97 */
 /* mobilelistitembutton_207 */
 .songList_mobilelistitembutton_207 {
-
 }
 /* mobilelistitem_98 */
 /* mobilelistitembutton_209 */
 .songList_mobilelistitembutton_209 {
-
 }
 /* mobilelistitem_99 */
 /* mobilelistitembutton_211 */
 .songList_mobilelistitembutton_211 {
-
 }
 /* mobilelistitem_100 */
 /* mobilelistitembutton_213 */
 .songList_mobilelistitembutton_213 {
-
 }
 /* mobilelistitem_101 */
 /* mobilelistitembutton_215 */
 .songList_mobilelistitembutton_215 {
-
 }
 /* mobilelistitem_102 */
 /* mobilelistitembutton_217 */
 .songList_mobilelistitembutton_217 {
-
 }
 /* mobilelistitem_103 */
 /* mobilelistitembutton_219 */
 .songList_mobilelistitembutton_219 {
-
 }
 /* mobilelistitem_104 */
 /* mobilelistitembutton_221 */
 .songList_mobilelistitembutton_221 {
-
 }
 /* mobilelistitem_105 */
 /* mobilelistitembutton_223 */
 .songList_mobilelistitembutton_223 {
-
 }
 /* mobilelistitem_106 */
 /* mobilelistitembutton_225 */
 .songList_mobilelistitembutton_225 {
-
 }
 /* mobilelistitem_107 */
 /* mobilelistitembutton_227 */
 .songList_mobilelistitembutton_227 {
-
 }
 /* mobilelistitem_108 */
 /* mobilelistitembutton_229 */
 .songList_mobilelistitembutton_229 {
-
 }
 /* mobilelistitem_109 */
 /* mobilelistitembutton_231 */
 .songList_mobilelistitembutton_231 {
-
 }
 /* mobilelistitem_110 */
 /* mobilelistitembutton_233 */
 .songList_mobilelistitembutton_233 {
-
 }
 /* mobilelistitem_111 */
 /* mobilelistitembutton_235 */
 .songList_mobilelistitembutton_235 {
-
 }
 /* mobilelistitem_112 */
 /* mobilelistitembutton_237 */
 .songList_mobilelistitembutton_237 {
-
 }
 /* mobilelistitem_113 */
 /* mobilelistitembutton_239 */
 .songList_mobilelistitembutton_239 {
-
 }
 /* mobilelistitem_114 */
 /* mobilelistitembutton_241 */
 .songList_mobilelistitembutton_241 {
-
 }
 /* mobilelistitem_115 */
 /* mobilelistitembutton_243 */
 .songList_mobilelistitembutton_243 {
-
 }
 /* mobilelistitem_116 */
 /* mobilelistitembutton_245 */
 .songList_mobilelistitembutton_245 {
-
 }
 /* mobilelistitem_117 */
 /* mobilelistitembutton_247 */
 .songList_mobilelistitembutton_247 {
-
 }
 /* mobilelistitem_118 */
 /* mobilelistitembutton_249 */
 .songList_mobilelistitembutton_249 {
-
 }
 /* mobilelistitem_119 */
 /* mobilelistitembutton_251 */
 .songList_mobilelistitembutton_251 {
-
 }
 /* mobilelistitem_120 */
 /* mobilelistitembutton_253 */
 .songList_mobilelistitembutton_253 {
-
 }
 /* mobilelistitem_121 */
 /* mobilelistitembutton_255 */
 .songList_mobilelistitembutton_255 {
-
 }
 /* mobilelistitem_122 */
 /* mobilelistitembutton_257 */
 .songList_mobilelistitembutton_257 {
-
 }
 /* mobilelistitem_123 */
 /* mobilelistitembutton_259 */
 .songList_mobilelistitembutton_259 {
-
 }
 /* mobilelistitem_124 */
 /* mobilelistitembutton_261 */
 .songList_mobilelistitembutton_261 {
-
 }
 /* mobilelistitem_125 */
 /* mobilelistitembutton_263 */
 .songList_mobilelistitembutton_263 {
-
 }
 /* mobilelistitem_126 */
 /* mobilelistitembutton_265 */
 .songList_mobilelistitembutton_265 {
-
 }
 /* mobilelistitem_127 */
 /* mobilelistitembutton_267 */
 .songList_mobilelistitembutton_267 {
-
 }
 /* mobilelistitem_128 */
 /* mobilelistitembutton_269 */
 .songList_mobilelistitembutton_269 {
-
 }
 /* mobilelistitem_129 */
 /* mobilelistitembutton_271 */
 .songList_mobilelistitembutton_271 {
-
 }
 /* mobilelistitem_130 */
 /* mobilelistitembutton_273 */
 .songList_mobilelistitembutton_273 {
-
 }
 /* mobilelistitem_131 */
 /* mobilelistitembutton_275 */
 .songList_mobilelistitembutton_275 {
-
 }
 /* mobilelistitem_132 */
 /* mobilelistitembutton_277 */
 .songList_mobilelistitembutton_277 {
-
 }
 /* mobilelistitem_133 */
 /* mobilelistitembutton_279 */
 .songList_mobilelistitembutton_279 {
-
 }
 /* mobilelistitem_134 */
 /* mobilelistitembutton_281 */
 .songList_mobilelistitembutton_281 {
-
 }
 /* mobilelistitem_135 */
 /* mobilelistitembutton_283 */
 .songList_mobilelistitembutton_283 {
-
 }
 /* mobilelistitem_136 */
 /* mobilelistitembutton_285 */
 .songList_mobilelistitembutton_285 {
-
 }
 /* mobilelistitem_137 */
 /* mobilelistitembutton_287 */
 .songList_mobilelistitembutton_287 {
-
 }
 /* mobilefooter */
 .songList_mobilefooter {
-	min-height:38px;
+  min-height: 38px;
 }
