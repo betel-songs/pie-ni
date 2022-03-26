@@ -330,6 +330,9 @@ Apperyio.AppPages = [{
     "name": "song_141",
     "location": "song_141.html"
 }, {
+    "name": "song_142",
+    "location": "song_142.html"
+}, {
     "name": "song_99",
     "location": "song_99.html"
 }, {
@@ -578,7 +581,6 @@ function songList_js() {
         'mobilelistitembutton_137': 'songList_mobilelistitembutton_137',
         'mobilelistitem_63': 'songList_mobilelistitem_63',
         'mobilelistitem_64': 'songList_mobilelistitem_64',
-        'mobilelistitembutton_141': 'songList_mobilelistitembutton_141',
         'mobilelistitem_65': 'songList_mobilelistitem_65',
         'mobilelistitembutton_143': 'songList_mobilelistitembutton_143',
         'mobilelistitem_66': 'songList_mobilelistitem_66',
@@ -732,7 +734,9 @@ function songList_js() {
         'mobilelistitem_140': 'songList_mobilelistitem_140',
         'mobilelistitembutton_140': 'songList_mobilelistitembutton_140',
         'mobilelistitem_141': 'songList_mobilelistitem_141',
-        'mobilelistitembutton_141': 'songList_mobilelistitembutton_141'
+        'mobilelistitembutton_141': 'songList_mobilelistitembutton_141',
+        'mobilelistitem_142': 'songList_mobilelistitem_142',
+        'mobilelistitembutton_142': 'songList_mobilelistitembutton_142'
     };
     if ("n2id" in window && window.n2id !== undefined) {
         $.extend(n2id, n2id_buf);
@@ -926,6 +930,7 @@ function songList_js() {
         /* mobilelistitem_139 */
         /* mobilelistitem_140 */
         /* mobilelistitem_141 */
+        /* mobilelistitem_142 */
     };
     // screen elements handler
     function songList_elementsEvents() {
@@ -2341,6 +2346,16 @@ function songList_js() {
                 }
             },
         }, '#songList_mobilecontainer [name="mobilelistitem_141"]');
+        $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_142"]').on({
+            click: function(event) {
+                if (!$(this).attr('disabled')) {
+                    Apperyio.navigateTo('song_142', {
+                        transition: 'slide',
+                        reverse: false
+                    });
+                }
+            },
+        }, '#songList_mobilecontainer [name="mobilelistitem_142"]');
     };
     $(document).off("pagebeforeshow", "#songList").on("pagebeforeshow", "#songList", function(event, ui) {
         Apperyio.CurrentScreen = "songList";
