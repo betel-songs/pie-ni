@@ -327,6 +327,9 @@ Apperyio.AppPages = [{
     "name": "song_140",
     "location": "song_140.html"
 }, {
+    "name": "song_141",
+    "location": "song_141.html"
+}, {
     "name": "song_99",
     "location": "song_99.html"
 }, {
@@ -727,7 +730,9 @@ function songList_js() {
         'mobilelistitem_139': 'songList_mobilelistitem_139',
         'mobilelistitembutton_139': 'songList_mobilelistitembutton_139',
         'mobilelistitem_140': 'songList_mobilelistitem_140',
-        'mobilelistitembutton_140': 'songList_mobilelistitembutton_140'
+        'mobilelistitembutton_140': 'songList_mobilelistitembutton_140',
+        'mobilelistitem_141': 'songList_mobilelistitem_141',
+        'mobilelistitembutton_141': 'songList_mobilelistitembutton_141'
     };
     if ("n2id" in window && window.n2id !== undefined) {
         $.extend(n2id, n2id_buf);
@@ -920,6 +925,7 @@ function songList_js() {
         /* mobilelistitem_138 */
         /* mobilelistitem_139 */
         /* mobilelistitem_140 */
+        /* mobilelistitem_141 */
     };
     // screen elements handler
     function songList_elementsEvents() {
@@ -2325,6 +2331,16 @@ function songList_js() {
                 }
             },
         }, '#songList_mobilecontainer [name="mobilelistitem_140"]');
+        $(document).off("click", '#songList_mobilecontainer [name="mobilelistitem_141"]').on({
+            click: function(event) {
+                if (!$(this).attr('disabled')) {
+                    Apperyio.navigateTo('song_141', {
+                        transition: 'slide',
+                        reverse: false
+                    });
+                }
+            },
+        }, '#songList_mobilecontainer [name="mobilelistitem_141"]');
     };
     $(document).off("pagebeforeshow", "#songList").on("pagebeforeshow", "#songList", function(event, ui) {
         Apperyio.CurrentScreen = "songList";
